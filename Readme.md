@@ -1,3 +1,7 @@
+Aluno: André Ricardo Monteiro da Rocha
+
+Aula 15-04-2026
+
 Considerando os requisitos funcionais do Sistema FitPass Gym Management, elabore o diagrama de classes do domínio. Salvar os docs em um repositório do GitHub e postar o link.
 
 
